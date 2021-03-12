@@ -1,6 +1,6 @@
 # youtube-website
 
-FIXME: description
+Practice Problem for learning more Clojure
 
 ## Installation
 
